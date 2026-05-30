@@ -11,7 +11,7 @@ This is not a list of websites. It's a record of how I think about digital produ
 | Project | Type | Focus | Status |
 |---|---|---|---|
 | [Il Raviolo](#il-raviolo) | Client ecosystem | UX, booking, local SEO | Live |
-| [Gas Project](#gas-project) | Client ecosystem | Branding, lead gen | Live |
+| [Gas Project](#gas-project) | Client ecosystem | Automotive positioning, lead gen | Live |
 | [Mundo Imposible](#mundo-imposible) | Client ecosystem | Conversion UX, mobile | Live |
 | [Il Ricettario Di Matteo](#il-ricettario-di-matteo) | Independent product | AI, recipe management | In progress |
 | [Lo Sapevi Che](#lo-sapevi-che) | Independent product | Gamification, engagement | In progress |
@@ -34,7 +34,7 @@ Italian restaurant in Las Palmas. Full digital ecosystem: website, local SEO, bo
 ---
 
 ### Gas Project
-Digital studio in Italy. Institutional website and brand positioning.
+Automotive workshop · Italy. Institutional website and brand positioning.
 
 **My role:** Product strategy · UX/UI · branding · lead generation system
 **Problem solved:** No clear value proposition and no lead capture mechanism.
